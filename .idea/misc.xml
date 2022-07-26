@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/dice_2.xml" value="0.2985" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/MyApplication/app/src/main/res/font/roboto.xml" value="0.296875" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2985" />
       </map>
     </option>
   </component>
